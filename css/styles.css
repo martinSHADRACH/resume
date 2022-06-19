@@ -102,7 +102,7 @@ a{
   line-height:2;
 }
 .skill{
-  width: 45%;
+  width: 25%;
   float: left;
   margin-right: 30px;
 }
@@ -146,6 +146,6 @@ ul li {
   color: #40514E;
 }
 .model li{
-
+clear: left;
 
 }
