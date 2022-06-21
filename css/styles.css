@@ -65,13 +65,13 @@ p {
 
 .cloud4 {
   position: absolute;
-  left: 100px;
+  left: 1em;
 }
 
 .cloud5 {
   position: absolute;
-  top: 100px;
-  left: 250px;
+  top: 7em;
+  left: 20em;
 }
 
 .btn {
@@ -151,4 +151,147 @@ ul li {
   color: #40514E;
 }
 
-.model li {}
+.sun {
+  position: absolute;
+  top: 0.2em;
+}
+
+.grass1 {
+  position: absolute;
+  width: 6%;
+  bottom: 0%;
+  right: 10%;
+}
+
+.grass2 {
+  position: absolute;
+  width: 6%;
+  bottom: 0%;
+  right: 5%;
+}
+
+.grass3 {
+  position: absolute;
+  width: 6%;
+  bottom: 0%;
+  right: 0%;
+}
+
+.grass4 {
+  position: absolute;
+  width: 6%;
+  bottom: 0%;
+  right: 15%;
+}
+
+.grass5 {
+  position: absolute;
+  width: 6%;
+  bottom: 0%;
+  right: 20%;
+}
+
+.grass6 {
+  position: absolute;
+  width: 6%;
+  bottom: 0%;
+  right: 25%;
+}
+
+.grass7 {
+  position: absolute;
+  width: 6%;
+  bottom: 0%;
+  right: 30%;
+}
+
+.grass8 {
+  position: absolute;
+  width: 6%;
+  bottom: 0%;
+  right: 35%;
+}
+
+.grass9 {
+  position: absolute;
+  width: 6%;
+  bottom: 0%;
+  right: 40%;
+}
+
+.grass10 {
+  position: absolute;
+  width: 6%;
+  bottom: 0%;
+  right: 45%;
+}
+
+.grass11 {
+  position: absolute;
+  width: 6%;
+  bottom: 0%;
+  right: 50%;
+}
+
+.grass12 {
+  position: absolute;
+  width: 6%;
+  bottom: 0%;
+  right: 55%;
+}
+
+.grass13 {
+  position: absolute;
+  width: 6%;
+  bottom: 0%;
+  right: 60%;
+}
+
+.grass14 {
+  position: absolute;
+  width: 6%;
+  bottom: 0%;
+  right: 65%;
+}
+
+.grass15 {
+  position: absolute;
+  width: 6%;
+  bottom: 0%;
+  right: 70%;
+}
+
+.grass16 {
+  position: absolute;
+  width: 6%;
+  bottom: 0%;
+  right: 75%;
+}
+
+.grass17 {
+  position: absolute;
+  width: 6%;
+  bottom: 0%;
+  right: 80%;
+}
+
+.grass18 {
+  position: absolute;
+  width: 6%;
+  bottom: 0%;
+  right: 85%;
+}
+
+.grass19 {
+  position: absolute;
+  width: 6%;
+  bottom: 0%;
+  right: 90%;
+}
+
+.grass20 {
+  position: absolute;
+  width: 6%;
+  bottom: 0%;
+  right: 95%;
+}
