@@ -154,6 +154,7 @@ ul li {
 .sun {
   position: absolute;
   top: 0.2em;
+  width: 5%;
 }
 
 .grass1 {
